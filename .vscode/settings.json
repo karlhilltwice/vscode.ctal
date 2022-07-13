@@ -1,0 +1,14 @@
+{
+  // prettier auto format configs.
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+
+  // windows eol does not follow the unix style.
+  "files.eol": "\n",
+
+  // items about certain extensions. (optional)
+  "cSpell.words": ["commitlint", "ctal"]
+}
