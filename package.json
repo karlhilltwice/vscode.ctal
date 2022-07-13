@@ -1,0 +1,6 @@
+{
+  "name": "vscode.ctal",
+  "description": "An abstract layer define of vscode color theme extension.",
+  "version": "0.0.1",
+  "private": true
+}
