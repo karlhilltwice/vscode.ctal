@@ -3,6 +3,9 @@
   "description": "An abstract layer define of vscode color theme extension.",
   "version": "0.0.1",
   "private": true,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "commitlint.init": "husky install"
   },
