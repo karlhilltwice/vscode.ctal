@@ -1,11 +1,8 @@
 {
-  "name": "vscode.ctal",
-  "description": "An abstract layer define of vscode color theme extension.",
+  "name": "vscode.ctal.monorepo",
+  "description": "Monorepo for vscode.ctal.",
   "version": "0.0.1",
-  "private": true,
-  "type": "module",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "private": false,
   "scripts": {
     "commitlint.init": "husky install"
   },

@@ -1,0 +1,16 @@
+{
+  "name": "vscode.ctal",
+  "description": "An abstract layer define of vscode color theme extension.",
+  "version": "0.0.1",
+  "contributors": [
+    "Karl Hilltwice <hilltwice@126.com>"
+  ],
+  "author": {
+    "name": "Karl Hilltwice",
+    "email": "hilltwice@126.com"
+  },
+  "private": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts"
+}

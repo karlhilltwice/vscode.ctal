@@ -1,0 +1,29 @@
+{
+  "name": "abyss-color-theme",
+  "description": "A vscode color theme inspired by made-in-abyss.",
+  "version": "0.0.1",
+  "icon": "",
+  "publisher": "",
+  "repository": {
+    "url": "https://github.com/karlhilltwice/vscode.ctal/abyss-color-theme"
+  },
+  "contributors": [
+    "Karl Hilltwice <hilltwice@126.com>"
+  ],
+  "author": {
+    "name": "Karl Hilltwice",
+    "email": "hilltwice@126.com"
+  },
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": []
+  },
+  "private": false,
+  "scripts": {},
+  "devDependencies": {}
+}
