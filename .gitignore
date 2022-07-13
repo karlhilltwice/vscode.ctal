@@ -1,0 +1,9 @@
+# for node packages.
+# 
+# different developers may use different package managers.
+# and even there might be different mirrors.
+# so that the lock files are not supposed to be version controlled.
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
